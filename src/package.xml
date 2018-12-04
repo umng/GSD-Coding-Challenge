@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Package xmlns="http://soap.sforce.com/2006/04/metadata">
+    <types>
+        <members>AnyEventCalCtrl</members>
+        <members>AnyEventCalCtrlTest</members>
+        <members>AppointmentEmailHandler</members>
+        <members>MyCalendarButtonsPicklist</members>
+        <name>ApexClass</name>
+    </types>
+    <types>
+        <members>AnyCalendar</members>
+        <members>BookAppointment</members>
+        <members>EventCalendar</members>
+        <name>AuraDefinitionBundle</name>
+    </types>
+    <types>
+        <members>Activity.Confirmed_by_Contact__c</members>
+        <name>CustomField</name>
+    </types>
+    <types>
+        <members>AppointmentEmail</members>
+        <name>EmailServicesFunction</name>
+    </types>
+    <types>
+        <members>Appointment_email_To_Contact</members>
+        <name>EmailTemplate</name>
+    </types>
+    <types>
+        <members>Contact-Contact Layout</members>
+        <members>Event-Event Layout</members>
+        <name>Layout</name>
+    </types>
+    <types>
+        <members>Contact.Book_Appointment</members>
+        <name>QuickAction</name>
+    </types>
+    <types>
+        <members>AnyEventCal</members>
+        <name>StaticResource</name>
+    </types>
+    <types>
+        <members>AppointmentEmailHandler</members>
+        <name>StaticResource</name>
+    </types>
+    <version>44.0</version>
+</Package>
